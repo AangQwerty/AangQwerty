@@ -5,8 +5,9 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AangQwerty alt=AangQwerty/> </p>
 
 #### List [my flagship project]()
-<a href="https://github.com/AangQwerty/AangQwerty"><img title="AangQwerty" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=AangQwerty&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AangQwerty/AangQwerty"><img title="AangQwerty" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=AangQwerty&theme=vision-friendly-white"></a>
 
+<a href="https://github.com/AangQwerty/YouBot"><img title="YouBot" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=YouBot&theme=vision-friendly-white"></a>
 
 #### Support me
 <a href="https://sociabuzz.com/angskizofrenia">Silahkan Klik Disini</a>
