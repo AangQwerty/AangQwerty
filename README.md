@@ -7,4 +7,4 @@
 
 
 #### Support me
-[https://sociabuzz.com/angskizofrenia]()
+[https://sociabuzz.com/angskizofrenia](url)
