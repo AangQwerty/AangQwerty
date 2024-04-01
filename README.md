@@ -2,7 +2,9 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AangQwerty alt=AangQwerty/> </p>
 
-#### List [My Social Media]()
-[![Facebokm Badge](https://img.shields.io/badge/-aang.qwerty69-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/aang.qwerty69/)](https://www.facebook.com/aang.qwerty69)
+#### List [my flagship project]()
+<a href="https://github.com/AangQwerty/AangQwerty"><img title="AangQwerty" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=AangQwerty&theme=vision-friendly-monokai"></a>
 
-[![Instagram Badge](https://img.shields.io/badge/-aangxd.qwerty_-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/aangxd.qwerty_/)](https://www.instagram.com/aangxd.qwerty_/) 
+
+#### Support me
+[https://sociabuzz.com/angskizofrenia]()
