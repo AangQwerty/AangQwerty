@@ -1,5 +1,4 @@
-<img align="right" src="https://media4.giphy.com/media/N5yFyURQlHTh3NUxn2/giphy.gif?cid=6c09b95283jn4mhdaqt3h89ieums63y98aauom7xlqm10726&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-<br/>
+<img align="right" src="https://media4.giphy.com/media/N5yFyURQlHTh3NUxn2/giphy.gif?cid=6c09b95283jn4mhdaqt3h89ieums63y98aauom7xlqm10726&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"><br/>
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AangQwerty)   [![](https://img.shields.io/badge/WhatsApp-Green?logo=WhatsApp&logoColor=Green&labelColor=white)](https://wa.me/6283177721763/) 
 
