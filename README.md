@@ -1,4 +1,5 @@
-![IMG_20240401_071507](https://github.com/AangQwerty/AangQwerty/assets/163013943/2ba1c99f-1676-4627-9f1d-f35235a14660)
+<img align="right" src="https://media4.giphy.com/media/N5yFyURQlHTh3NUxn2/giphy.gif?cid=6c09b95283jn4mhdaqt3h89ieums63y98aauom7xlqm10726&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="300">
+<br/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AangQwerty"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AangQwerty&layout=compact&theme=dark&hide_border=true" />
@@ -14,4 +15,3 @@
 
   
 <a href="https://sociabuzz.com/angskizofrenia">Dukung Saya Disini</a>
-
