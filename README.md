@@ -5,10 +5,10 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AangQwerty alt=AangQwerty/> </p>
 
 ##### List [my favorite project](https://github.com/AangQwerty)
-<a href="https://github.com/AangQwerty/AangQwerty"><img title="AangQwerty" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=AangQwerty&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AangQwerty/YouBot"><img title="YouBot" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=YouBot&theme=vision-friendly-dark"></a>
-<a href="https://github.com/AangQwerty/Vidplayer"><img title="Vidplayer" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=Vidplayer&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AangQwerty/AangQwerty"><img title="AangQwerty" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=AangQwerty&theme=dark"></a>
+<a href="https://github.com/AangQwerty/YouBot"><img title="YouBot" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=YouBot&theme=dark"></a>
+<a href="https://github.com/AangQwerty/Vidplayer"><img title="Vidplayer" src="https://github-readme-stats.vercel.app/api/pin/?username=AangQwerty&repo=Vidplayer&theme=dark"></a>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AangQwerty"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AangQwerty&layout=compact&theme=cobalt&hide_border=true"/>
+<a href="https://github.com/AangQwerty"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AangQwerty&layout=compact&theme=dark&hide_border=true"/>
 <br/>
