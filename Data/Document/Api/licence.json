@@ -1,4 +1,16 @@
 {
-    "license_key": "ABC123XYZ",
-    "valid_until": "2027-12-31"
+  "licenses": [
+    {
+      "user": "user1",
+      "license_key": "ABC123",
+      "status": "Premium",
+      "valid_until": "2024-12-31"
+    },
+    {
+      "user": "user2",
+      "license_key": "XYZ789",
+      "status": "Free",
+      "valid_until": "2025-01-15"
+    }
+  ]
 }
