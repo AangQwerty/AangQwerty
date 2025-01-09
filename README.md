@@ -12,7 +12,7 @@ data = [
 ]
 ```
 
-<p align="center"><a href="https://github.com/AangQwerty"><img src="https://avatars.githubusercontent.com/u/62897038?v=4" height='195' alt="AangQwerty profile">
+<p align="center"><a href="https://github.com/AangQwerty"><img src="https://raw.githubusercontent.com/AangQwerty/AangQwerty/refs/heads/main/Data/Document/Image/avenged-sevenfold-logo.png" height='195' alt="AangQwerty profile">
 <a href="https://github.com/AangQwerty"><img title="AangQwerty" src="https://github-readme-stats.vercel.app/api?username=AangQwerty&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 <a href="https://github.com/AangQwerty"><img title="AangQwerty" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AangQwerty&layout=compact&theme=nightowl"></a><br>
 <a href="https://github.com/AangQwerty"><img title="AangQwerty" src="https://komarev.com/ghpvc/?username=AangQwerty&label=Views&color=blue&style=plastic"></a>
