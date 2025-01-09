@@ -1,15 +1,15 @@
 <img align="right" src="https://media4.giphy.com/media/N5yFyURQlHTh3NUxn2/giphy.gif?cid=6c09b95283jn4mhdaqt3h89ieums63y98aauom7xlqm10726&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"><br/>
 
-##### MY PERSONAL DATA:
-``` json
+#### MY PERSONAL DATA:
+``` css
 data = [
-{
-	"Name": "Moch Aang Ardiansyah",
-	"Address": "Tegal, Jawa Tengah, Indonesia",
-	"Playlist": "Heavy Metal",
-	"Hobby": "Watching Anime",
-	}
-]			
+    {
+        "Name": "Moch Aang Ardiansyah",
+        "Address": "Tegal, Jawa Tengah, Indonesia",
+        "Playlist": "Heavy Metal",
+        "Hobby": "Watching Anime",
+    }
+]
 ```
 
 <p align="center"><a href="https://github.com/AangQwerty"><img src="https://avatars.githubusercontent.com/u/62897038?v=4" height='195' alt="AangQwerty profile">
