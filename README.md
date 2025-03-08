@@ -6,7 +6,7 @@ data = [
     {
         "Name": "Moch Aang Ardiansyah",
         "Address": "Tegal, Jawa Tengah, Indonesia",
-        "Playlist": "Heavy Metal",
+        "Playlist Music": "Heavy Metal",
         "Hobby": "Watching Anime",
     }
 ]
